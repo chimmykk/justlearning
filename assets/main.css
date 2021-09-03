@@ -95,18 +95,17 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
   
   .layer:after {
      font-family: 'Rubik', sans-serif;
-    font-size:150px;
-    font-weight: 900;
-    content: "GAUL SOCIETY";
-    white-space: pre;
-    text-align: center;
-    height: 100%;
-    width: 100%;
-    position: absolute;
-    top: 10px;
-    color:#FA6400;
-    letter-spacing: -2px;
-   
+     font-size: 100px;
+     font-weight: 400;
+     content: "GAUL SOCIETY";
+     white-space: pre;
+     text-align: center;
+     height: 100%;
+     width: 100%;
+     position: absolute;
+     top: 10px;
+     color: #fd0258;
+     letter-spacing: 8px;
   }
   
   .layer:nth-child(1):after {
@@ -194,15 +193,15 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
   }
   
   .layer:nth-child(n+11):after {
-    -webkit-text-stroke: 15px #ff7e79;
+    -webkit-text-stroke: 15px #ff9900;
   }
   
   .layer:nth-child(n+12):after {
-    -webkit-text-stroke: 15px #ff7e79;
+    -webkit-text-stroke: 15px #fd0258;
   }
   
   .layer:last-child:after {
-    -webkit-text-stroke: 17px #fd0258;
+    -webkit-text-stroke: 17px #fa6400;
   }
   
   .layer:first-child:after {

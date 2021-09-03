@@ -104,8 +104,8 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
      width: 100%;
      position: absolute;
      top: 10px;
-     color: #fd0258;
-     letter-spacing: 8px;
+     color: #f7b500;
+     letter-spacing: 10px;
   }
   
   .layer:nth-child(1):after {
